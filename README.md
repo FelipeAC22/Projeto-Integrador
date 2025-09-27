@@ -1,9 +1,9 @@
 # PI-conectaSaoLeopoldo
 
-<h2>Integrantes do grupo: Felipe Cardoso, Felipe Shalon, João Pedro Kroth</h2>
+<h2>Integrantes do grupo:</h2> 
+<h3>Felipe Cardoso, Felipe Shalon, João Pedro Kroth</h3>
 
 <h2>descrição:</h2>
-
 <h3>...</h3>
 
 <h2>Miro Brainstorm Ideia<h2>
